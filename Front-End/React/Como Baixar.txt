@@ -1,0 +1,22 @@
+node -v
+npm -v
+
+npx creat-react-app nome do projeto
+
+ou
+
+npm create vite@latest
+npm install
+npm run dev
+
+ou 
+
+# Linux or macOS
+git clone https://github.com/MicrosoftDocs/mslearn-react
+cd mslearn-react/code/0-starter
+
+# Windows
+git clone https://github.com/MicrosoftDocs/mslearn-react
+cd mslearn-react/code/0-starter
+
+npm install
